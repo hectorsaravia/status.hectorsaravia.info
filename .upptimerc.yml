@@ -11,8 +11,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.hectorsaravia.works
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: dark
   name: status.hectorsaravia.works
-  introTitle: "Status pago for **hectorsaravia.works**"
+  introTitle: "Status for **hectorsaravia.works**"
   introMessage: This website is served with GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
