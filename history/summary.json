@@ -4,19 +4,19 @@
     "url": "https://hectorsaravia.info",
     "icon": "https://favicons.githubusercontent.com/hectorsaravia.info",
     "slug": "hectorsaravia-info",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 457,
-    "timeWeek": 289,
-    "timeMonth": 282,
-    "timeYear": 298,
+    "time": 297,
+    "timeDay": 309,
+    "timeWeek": 273,
+    "timeMonth": 278,
+    "timeYear": 297,
     "dailyMinutesDown": {
-      "2022-12-15": 0
+      "2022-12-15": 9
     }
   }
 ]
