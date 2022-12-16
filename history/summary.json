@@ -6,17 +6,15 @@
     "slug": "hectorsaravia-info",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 297,
-    "timeDay": 309,
-    "timeWeek": 273,
-    "timeMonth": 278,
+    "timeDay": 220,
+    "timeWeek": 259,
+    "timeMonth": 277,
     "timeYear": 297,
-    "dailyMinutesDown": {
-      "2022-12-15": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
