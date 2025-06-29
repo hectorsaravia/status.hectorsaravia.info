@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hectorsaravia.info.ico",
     "slug": "hectorsaravia-info",
     "status": "up",
-    "uptime": "50.96%",
+    "uptime": "51.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.16%",
+    "uptimeYear": "93.43%",
     "time": 309,
-    "timeDay": 340,
-    "timeWeek": 208,
-    "timeMonth": 304,
+    "timeDay": 141,
+    "timeWeek": 211,
+    "timeMonth": 298,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2024-08-04": 120,
@@ -42,8 +42,7 @@
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
-      "2024-06-30": 1440,
-      "2024-06-29": 1440
+      "2024-06-30": 1440
     }
   }
 ]
